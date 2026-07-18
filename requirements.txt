@@ -1,2 +1,6 @@
 pandas>=2.2
 numpy>=1.26
+matplotlib>=3.9
+seaborn>=0.13
+notebook>=7.2
+nbconvert>=7.16

@@ -1,0 +1,5 @@
+,Categoria_Produto,Metodo_Pagamento,Status_Pedido,Estado
+count,5874,5874,5874,5874
+unique,5,5,4,10
+top,Livros,Pix,Concluido,AM
+freq,1244,1946,2301,623

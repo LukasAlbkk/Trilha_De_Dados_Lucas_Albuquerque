@@ -1,0 +1,16 @@
+Categoria_Produto,Nome_Produto,qtd_total,faturamento_total,ranking_categoria
+Casa,Jogo de Panelas,707,1306716.24,1
+Casa,Kit Cama,674,1213824.88,2
+Casa,Aspirador de Pó,658,1177941.38,3
+Eletrônicos,"Smart TV 50""",775,1442972.76,1
+Eletrônicos,Fone Bluetooth,739,1310532.68,2
+Eletrônicos,Notebook Prime,698,1247685.52,3
+Esporte,Bola de Futebol,755,1302743.31,1
+Esporte,Corda de Pular,698,1261649.17,2
+Esporte,Tapete de Yoga,676,1238942.92,3
+Livros,Biografia,792,1424620.55,1
+Livros,Livro Técnico Python,778,1401357.18,2
+Livros,Quadrinho Clássico,741,1290135.34,3
+Moda,Vestido Casual,785,1453870.68,1
+Moda,Tênis Esportivo,719,1248181.61,2
+Moda,Camiseta Básica,748,1245390.57,3

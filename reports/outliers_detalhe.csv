@@ -1,0 +1,30 @@
+ID_Transacao,ID_Cliente,ID_Produto,Data_Venda,Valor_Unitario,Quantidade,Faturamento,Cidade,Estado,Pais,Metodo_Pagamento,Status_Pedido,Nome_Produto,Categoria_Produto,coluna_outlier
+TRX000857,CLI00170,PRD0003,2025-09-19,3445.33,5,17226.65,Recife,PE,Brasil,Cartao De Credito,Concluido,Kit Cama,Casa,Faturamento
+TRX002748,CLI00340,PRD0003,2025-07-10,3413.87,5,17069.35,Fortaleza,CE,Brasil,Cartao De Debito,Concluido,Kit Cama,Casa,Faturamento
+TRX000058,CLI01003,PRD0004,2025-10-06,3496.17,5,17480.85,Manaus,AM,Brasil,Pix,Concluido,Liquidificador,Casa,Faturamento
+TRX001361,CLI01007,PRD0006,2025-01-12,3451.46,5,17257.3,Curitiba,PR,Brasil,Pix,Devolvido,Caixa de Som,Eletrônicos,Faturamento
+TRX002336,CLI00951,PRD0007,2025-03-15,3439.4,5,17197.0,Curitiba,PR,Brasil,Cartao De Debito,Cancelado,Fone Bluetooth,Eletrônicos,Faturamento
+TRX004219,CLI00393,PRD0007,2025-08-10,3474.36,5,17371.8,Curitiba,PR,Brasil,Cartao De Credito,Concluido,Fone Bluetooth,Eletrônicos,Faturamento
+TRX004447,CLI00588,PRD0009,2025-03-30,3406.19,5,17030.95,Manaus,AM,Brasil,Boleto,Cancelado,"Smart TV 50""",Eletrônicos,Faturamento
+TRX000019,CLI00151,PRD0009,2025-05-06,3486.4,5,17432.0,Manaus,AM,Brasil,Cartao De Credito,Devolvido,"Smart TV 50""",Eletrônicos,Faturamento
+TRX005630,CLI00588,PRD0009,2025-02-08,3445.79,5,17228.95,Curitiba,PR,Brasil,Boleto,Devolvido,"Smart TV 50""",Eletrônicos,Faturamento
+TRX005913,CLI00185,PRD0009,2025-05-16,3414.15,5,17070.75,Rio De Janeiro,RJ,Brasil,Cartao De Credito,Devolvido,"Smart TV 50""",Eletrônicos,Faturamento
+TRX001636,CLI00347,PRD0009,2025-12-30,3495.66,5,17478.3,Rio De Janeiro,RJ,Brasil,Pix,Cancelado,"Smart TV 50""",Eletrônicos,Faturamento
+TRX005579,CLI00868,PRD0009,2025-04-28,3494.43,5,17472.15,Belo Horizonte,MG,Brasil,Cartao De Credito,Cancelado,"Smart TV 50""",Eletrônicos,Faturamento
+TRX004150,CLI00712,PRD0010,2025-02-01,3426.59,5,17132.95,Recife,PE,Brasil,Cartao De Debito,Devolvido,Smartphone X10,Eletrônicos,Faturamento
+TRX005033,CLI00018,PRD0011,2025-07-12,3418.91,5,17094.55,Salvador,BA,Brasil,Cartao De Credito,Em Processamento,Bicicleta Aro 29,Esporte,Faturamento
+TRX002895,CLI00329,PRD0011,2025-08-07,3421.23,5,17106.15,Rio De Janeiro,RJ,Brasil,Boleto,Devolvido,Bicicleta Aro 29,Esporte,Faturamento
+TRX001767,CLI00342,PRD0011,2025-02-09,3423.43,5,17117.15,Recife,PE,Brasil,Cartao De Credito,Concluido,Bicicleta Aro 29,Esporte,Faturamento
+TRX005631,CLI00207,PRD0011,2025-08-17,3443.04,5,17215.2,Fortaleza,CE,Brasil,Cartao De Debito,Concluido,Bicicleta Aro 29,Esporte,Faturamento
+TRX001639,CLI00453,PRD0012,2025-06-24,3437.18,5,17185.9,Brasília,DF,Brasil,Cartao De Credito,Em Processamento,Bola de Futebol,Esporte,Faturamento
+TRX002572,CLI00940,PRD0015,2025-06-22,3440.51,5,17202.55,São Paulo,SP,Brasil,Pix,Devolvido,Tapete de Yoga,Esporte,Faturamento
+TRX001360,CLI01072,PRD0016,2025-09-15,3482.27,5,17411.35,Belo Horizonte,MG,Brasil,Cartao De Credito,Concluido,Biografia,Livros,Faturamento
+TRX004305,CLI00934,PRD0019,2025-11-23,3406.79,5,17033.95,Belo Horizonte,MG,Brasil,Cartao De Debito,Em Processamento,Quadrinho Clássico,Livros,Faturamento
+TRX005376,CLI01166,PRD0019,2025-12-07,3441.39,5,17206.95,Curitiba,PR,Brasil,Boleto,Cancelado,Quadrinho Clássico,Livros,Faturamento
+TRX003642,CLI00896,PRD0019,2025-11-03,3497.26,5,17486.3,Fortaleza,CE,Brasil,Cartao De Credito,Em Processamento,Quadrinho Clássico,Livros,Faturamento
+TRX005607,CLI00990,PRD0019,2025-11-12,3463.25,5,17316.25,Manaus,AM,Brasil,Cartao De Credito,Devolvido,Quadrinho Clássico,Livros,Faturamento
+TRX004117,CLI00434,PRD0021,2025-03-02,3456.45,5,17282.25,Rio De Janeiro,RJ,Brasil,Cartao De Credito,Devolvido,Calça Jeans,Moda,Faturamento
+TRX000144,CLI00480,PRD0022,2025-06-14,3477.29,5,17386.45,Belo Horizonte,MG,Brasil,Pix,Devolvido,Camiseta Básica,Moda,Faturamento
+TRX004427,CLI00578,PRD0023,2025-03-29,3439.61,5,17198.05,Rio De Janeiro,RJ,Brasil,Pix,Cancelado,Jaqueta Corta-Vento,Moda,Faturamento
+TRX002121,CLI00127,PRD0024,2025-07-28,3442.3,5,17211.5,Manaus,AM,Brasil,Cartao De Credito,Em Processamento,Tênis Esportivo,Moda,Faturamento
+TRX003856,CLI00605,PRD0025,2025-10-27,3422.82,5,17114.1,São Paulo,SP,Brasil,Pix,Concluido,Vestido Casual,Moda,Faturamento
