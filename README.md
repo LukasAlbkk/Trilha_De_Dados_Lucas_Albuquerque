@@ -4,8 +4,6 @@ Ciclo completo de analise de dados (end-to-end) sobre um dataset simulado de
 e-commerce: ingestao e tratamento (ETL), analise exploratoria com SQL,
 dashboard interativo e um modelo preditivo simples de faturamento.
 
-Projeto dividido em 4 sprints semanais, conforme o enunciado do desafio
-(`Desafio Dados PD (1).pdf`).
 
 ## Perguntas de negocio
 
